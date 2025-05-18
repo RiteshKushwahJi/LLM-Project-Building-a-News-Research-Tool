@@ -18,6 +18,7 @@ Task 3.2: Implement Basic Streamlit Interface in
 
 Task 3.3: Run Streamlit 
 
+![image](https://github.com/RiteshKushwahJi/LLM-Project-Building-a-News-Research-Tool/blob/main/Capture%202.PNG)
 
 Phase 4: Enhancing the Tool
 Task 4.1: Integrate NewsAPI in
